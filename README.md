@@ -9,7 +9,7 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 
 ![](https://imgur.com/A6adsnP.png)
 
-## Học viên nói gì về chúng tôi ?
+## Học viên nói gì về ProtonX TensorFlow Class ?
 
 ![](https://imgur.com/v8cqfT9.png)
 
