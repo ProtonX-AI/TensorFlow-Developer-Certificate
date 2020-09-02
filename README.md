@@ -3,7 +3,13 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 
 ![](https://imgur.com/epYhmw0.png)
 
-# Học viên nói gì về chúng tôi ?
+## ProtonX tại TensorFlow Blog 
+
+- https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html
+
+![](https://imgur.com/A6adsnP.png)
+
+## Học viên nói gì về chúng tôi ?
 
 ![](https://imgur.com/v8cqfT9.png)
 
@@ -21,7 +27,7 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 - Những nội dung khác mà bạn sẽ được hỗ trợ học tập:
 ![](https://imgur.com/E01iXBk.png)
 
-# Đối tác và nhà tài trợ 
+## Đối tác và nhà tài trợ 
 
 ![](https://imgur.com/JSEGOhX.png)
 
