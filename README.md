@@ -24,3 +24,9 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 # Đối tác và nhà tài trợ 
 
 ![](https://imgur.com/JSEGOhX.png)
+
+### Liên hệ 
+
+- Email: **protonxai@gmail.com** hoặc **protonxta@gmail.com**
+- Facebook: https://www.facebook.com/protonxai
+- Website: https://protonx.ai/
