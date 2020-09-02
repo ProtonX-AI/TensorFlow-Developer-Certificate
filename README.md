@@ -5,7 +5,7 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 
 ## ProtonX tại TensorFlow Blog 
 
-- https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html
+- [TensorFlow User Groups: Updates from Around the World](https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html)
 
 ![](https://imgur.com/A6adsnP.png)
 
