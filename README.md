@@ -19,7 +19,6 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 - Chi tiết về khoá học: https://docs.google.com/document/d/1mwVrF50V1R7Oi0-adcu6z7BEafjlFkXqW3NqI7kmQQs/
 - Ngoài ra, khoá học không chỉ riêng về mục đích giành được chứng chỉ TensorFlow mà học viên còn được cọ sát với những cuộc thi trên **Kaggle** và trải nghiệm tự xây dựng **Project cuối khoá** với sự hỗ trợ của giảng viên và trợ giảng.
 - Những nội dung khác mà bạn sẽ được hỗ trợ học tập:
-
 ![](https://imgur.com/E01iXBk.png)
 
 # Đối tác và nhà tài trợ 
