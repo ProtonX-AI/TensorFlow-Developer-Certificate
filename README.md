@@ -7,7 +7,7 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 
 ![](https://imgur.com/v8cqfT9.png)
 
-### Tham dự khoá học miễn phí?
+### Tham dự khoá học miễn phí ?
 
 - Học viên hoàn toàn có thể tham dự khoá học miễn phí tại: https://docs.google.com/document/d/1CrKIH_XOzegVo6pH6P2XJmHcrt2Q-4zOQtVp11Q-x0Q/
 
