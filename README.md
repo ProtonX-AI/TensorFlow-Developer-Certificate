@@ -11,8 +11,6 @@ Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển T
 
 - Học viên hoàn toàn có thể tham dự khoá học miễn phí tại: https://docs.google.com/document/d/1CrKIH_XOzegVo6pH6P2XJmHcrt2Q-4zOQtVp11Q-x0Q/
 
-- Toàn bộ Video của khoá học về Deep Learning cơ bản: https://www.youtube.com/watch?v=j5HxIJoOJms&list=PLMm4sOMuA2QI5x_0KlNT3LuKDi6-ByboB
-
 ![](https://imgur.com/77aRNCc.png)
 
 ### Tham dự khoá học cùng với chuyên gia 
