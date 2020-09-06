@@ -1,4 +1,6 @@
 # TensorFlow Developer Certificate Program 
+Xem chi tiết tại: https://protonxai.github.io/
+
 Tạo sự khác biệt cho bản thân với Chứng chỉ nhà phát triển TensorFlow. Chứng minh sự thành thạo của bạn trong việc sử dụng TensorFlow để giải quyết các vấn đề về học sâu và ML. Được công nhận cho các kỹ năng của bạn và tham gia Mạng lưới chứng chỉ trên trang chủ của [TensorFlow](https://www.tensorflow.org/certificate).
 
 ![](https://imgur.com/epYhmw0.png)
